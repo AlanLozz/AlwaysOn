@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AlwaysOn</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_time">Hello Time!</string>
+    <string name="hello_time_stamp">Hello, time stamp!</string>
+    <string name="hello_state">Hello, state!</string>
+    <string name="hello_update_rate">Hello, update rate!</string>
+    <string name="hello_draw_count">Hello, draw count!</string>
+    <string name="timestamp_label">Timestamp: %1$d</string>
+    <string name="update_rate_label">Update rate: %1$d sec</string>
+    <string name="draw_count_label">Draw count: %1$d</string>
+    <string name="mode_active_label">Active Mode (Handler)</string>
+    <string name="mode_ambient_label">Ambient Mode (Alarm)</string>
+</resources>
